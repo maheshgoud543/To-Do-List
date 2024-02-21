@@ -2,6 +2,8 @@ body{
   background-color: aqua;
 }
 .title_name{
-   padding-left: 550px;
-   
+   padding-left: 550px;  
+}
+.Task_input{
+  padding-left: 550px;
 }
